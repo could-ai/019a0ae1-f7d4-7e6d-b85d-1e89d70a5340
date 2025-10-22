@@ -2,7 +2,7 @@ name: predictfuturo
 version: 1.0.0+1
 publish_to: 'none'
 
-ecosystem:
+environment:
   sdk: ^3.7.2
 
 dependencies:
